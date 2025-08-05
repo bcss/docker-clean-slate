@@ -1,15 +1,3 @@
-# 🐳 docker-clean-slate
-
-## Repository Name Suggestion
-**docker-clean-slate**
-
-## Repository Description
-*A comprehensive, interactive script that completely removes all Docker data, configurations, and artifacts while preserving the Docker engine installation. Includes cleanup of Model Runner Beta, Scout, and other Docker ecosystem components.*
-
----
-
-# 🚨 DOCKER CLEAN SLATE - README
-
 ## ⚠️ WARNING: THIS IS A NUCLEAR OPTION
 
 **This script is designed to completely wipe all Docker-related data from your system.**  
