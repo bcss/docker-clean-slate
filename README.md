@@ -36,8 +36,7 @@
 
 ```bash
 # Download the script
-curl -LO (https://github.com/bcss/docker-clean-slate/blob/main/clean-docker-cruft.sh)
-
+curl -LO https://github.com/bcss/docker-clean-slate/blob/main/clean-docker-cruft.sh
 # Make it executable
 chmod +x docker-refresh.sh
 
